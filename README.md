@@ -13,9 +13,9 @@ Playbook автоматически настраивает nginx на Ubuntu:
 
 Файлы проекта:
 
-- `playbook.yml` — основной Ansible playbook
-- `inventory.ini` — inventory для запуска
-- `README.md` — описание проекта
+- playbook.yml — основной Ansible playbook
+- inventory.ini — inventory для запуска
+- README.md — описание проекта
 
 Требования:
 
