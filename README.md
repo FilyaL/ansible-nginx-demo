@@ -26,3 +26,6 @@ Playbook автоматически настраивает nginx на Ubuntu:
 Команда для запуска:
 
 ansible-playbook -i inventory.ini playbook.yml
+
+Пример результата:
+![result](result.png)
